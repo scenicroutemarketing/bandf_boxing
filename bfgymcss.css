@@ -1,0 +1,80 @@
+@charset "utf-8";
+
+
+body {
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+
+body p{
+	font-size: 20px;
+}
+
+#bullet {
+	
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+#home {
+	background-color: hsl(240, 3%, 23%);
+	color: white;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.head {
+  position: relative;
+  width: 100%;
+}
+.btn.btn-primary.btn-lg {
+	background-color: rgb(255,198,1);
+	color: black;
+	border: black;
+}
+
+.youth {
+	width:100%;
+	
+}
+
+.youth p {
+	font-size: 18px;
+}
+.kids {
+	width: 333px;
+	
+}
+
+.carousel-item img {
+	width: 100%;
+}
+#hours{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#hours p{
+	font-size: 22px;
+}
+
+
+#banner img{
+	position: relative;
+	width: 100%;
+}
+#banner h1{
+	position:absolute;
+	bottom: 8px;
+	left: 16px;
+}
+
+#banner .text-block {
+	position: absolute;
+	  bottom: 20px;
+  right: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+
+	
+}
